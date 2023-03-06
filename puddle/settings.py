@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-!osa5m%=yq#=_$39y^3ia&999dic6$7id*p3-2m#w$%3*phf1_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','https://stately-buttercream-ea07d9.netlify.app']
 
 LOGIN_URL='/login/'
 LOGIN_REDIRECT_URL= "/"
