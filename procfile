@@ -1,1 +1,1 @@
-web: gunicorn Puddle.wsgi --log-file -
+web: gunicorn puddle.wsgi --log-file -
